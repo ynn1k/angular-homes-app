@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+
+json-server needed. db.json loacted in root.
